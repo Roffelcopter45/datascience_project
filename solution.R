@@ -1,7 +1,7 @@
 library(tidyverse)
 
 # Exercise 9: Load the dataset
-trade_2018_per_quarter <- read_csv("trade.csv")
+trade_2018_per_quarter <- read_csv("trade_extended.csv")
 
 # Exercise 10: Explore the dataframe
 dim(trade_2018_per_quarter)
